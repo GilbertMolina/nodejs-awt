@@ -1,7 +1,7 @@
 {
-  "name": "react-monthly-budget-app",
+  "name": "nodejs-jwt",
   "version": "1.0.0",
-  "description": "App to handle the monthly budget and also have a payment history",
+  "description": "How to generate json web tokens",
   "main": "index.js",
   "type": "module",
   "scripts": {
