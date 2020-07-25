@@ -1,0 +1,21 @@
+{
+  "name": "react-monthly-budget-app",
+  "version": "1.0.0",
+  "description": "App to handle the monthly budget and also have a payment history",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev-start": "nodemon server.js",
+    "dev-start-authServer": "nodemon authServer.js"
+  },
+  "author": "Gilbert Molina",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
